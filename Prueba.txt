@@ -1,0 +1,5 @@
+si ( 20 > 18) {
+salida("Hola Jeury");
+}entonces si{
+salida ("Hola Profe");
+}
